@@ -18,6 +18,7 @@
   Изотова                             [HometaskBI ---
                                       IzotovaS_26B02-E.md](https://github.com/isp6628/HometaskBI/blob/main/IzotovaS_26B02-E.md)
   --------------------------------------------------------------------------------------------------------------------------------------
+  
 
 ## Ссылки для быстрого доступа
 
@@ -31,3 +32,5 @@
 5.  **Егорова:** https://gitverse.ru/kirexzes/kkkk
 6.  **Изотова:**
     https://github.com/isp6628/HometaskBI/blob/main/IzotovaS_26B02-E.md
+7. **Дубровина:**
+8. https://github.com/eewwyx/forecast-ruble-rate
