@@ -17,6 +17,10 @@
 
   Изотова                             [HometaskBI ---
                                       IzotovaS_26B02-E.md](https://github.com/isp6628/HometaskBI/blob/main/IzotovaS_26B02-E.md)
+
+  Ефремова                            [economic-forecast-2026](https://gitverse.ru/Veronica5/economic-forecast-2026/content/master/forecast.md?v=content)
+
+  Зайченко                           [Forecast-Egg](https://github.com/tima-wrest1/Forecast-Egg)
   --------------------------------------------------------------------------------------------------------------------------------------
   
 
@@ -34,3 +38,6 @@
     https://github.com/isp6628/HometaskBI/blob/main/IzotovaS_26B02-E.md
 7. **Дубровина:**
 8. https://github.com/eewwyx/forecast-ruble-rate
+9. **Ефремова:**
+   https://gitverse.ru/Veronica5/economic-forecast-2026/content/master/forecast.md?v=content
+10. **Зайченко:** https://github.com/tima-wrest1/Forecast-Egg
