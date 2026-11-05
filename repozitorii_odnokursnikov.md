@@ -23,6 +23,8 @@
   Ефремова                            [economic-forecast-2026](https://gitverse.ru/Veronica5/economic-forecast-2026/content/master/forecast.md?v=content)
 
   Зайченко                           [Forecast-Egg](https://github.com/tima-wrest1/Forecast-Egg)
+
+  Кондратьев                          [forecast-inflation](https://github.com/KonstantinKondratev/forecast-inflation/blob/8906f270ef031e0de16abac87d7fb4555e29430f/inflation-first-half-november-2026.md)
   --------------------------------------------------------------------------------------------------------------------------------------
   
 
@@ -42,3 +44,5 @@
 8.  **Ефремова:**
     https://gitverse.ru/Veronica5/economic-forecast-2026/content/master/forecast.md?v=content
 9.  **Зайченко:** https://github.com/tima-wrest1/Forecast-Egg
+10. **Кондратьев:**
+    https://github.com/KonstantinKondratev/forecast-inflation/blob/8906f270ef031e0de16abac87d7fb4555e29430f/inflation-first-half-november-2026.md
