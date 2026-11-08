@@ -25,6 +25,8 @@
   Зайченко                           [Forecast-Egg](https://github.com/tima-wrest1/Forecast-Egg)
 
   Кондратьев                          [forecast-inflation](https://github.com/KonstantinKondratev/forecast-inflation/blob/8906f270ef031e0de16abac87d7fb4555e29430f/inflation-first-half-november-2026.md)
+
+  Кузнецова                           [forecast-cbr-rate-november-2026](https://github.com/sssmlu/forecast-cbr-rate-november-2026/tree/main)
   --------------------------------------------------------------------------------------------------------------------------------------
   
 
@@ -46,3 +48,4 @@
 9.  **Зайченко:** https://github.com/tima-wrest1/Forecast-Egg
 10. **Кондратьев:**
     https://github.com/KonstantinKondratev/forecast-inflation/blob/8906f270ef031e0de16abac87d7fb4555e29430f/inflation-first-half-november-2026.md
+11. **Кузнецова:** https://github.com/sssmlu/forecast-cbr-rate-november-2026/tree/main
