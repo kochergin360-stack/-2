@@ -31,6 +31,8 @@
   Еськина                             [forecast-eur-rub](https://gitverse.ru/liza_esk/forecast-eur-rub)
 
   Мельникова                          [forecast-cbr-rate](https://gitverse.ru/st153688/forecast-cbr-rate)
+
+  Кочергин                            [kochergin360-stack](https://github.com/kochergin360-stack/-)
   
   --------------------------------------------------------------------------------------------------------------------------------------
   
@@ -56,3 +58,4 @@
 11. **Кузнецова:** https://github.com/sssmlu/forecast-cbr-rate-november-2026/tree/main
 12. **Еськина:** https://gitverse.ru/liza_esk/forecast-eur-rub
 13. **Мельникова:** https://gitverse.ru/st153688/forecast-cbr-rate
+14. **Кочергин:** https://github.com/kochergin360-stack/-
