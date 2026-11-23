@@ -33,6 +33,8 @@
   Мельникова                          [forecast-cbr-rate](https://gitverse.ru/st153688/forecast-cbr-rate)
 
   Кочергин                            [kochergin360-stack](https://github.com/kochergin360-stack/-)
+
+  Какоша                              [forecast-usd](https://github.com/kpbpbd8mm8-spec/forecast-usd)
   
   --------------------------------------------------------------------------------------------------------------------------------------
   
@@ -59,3 +61,4 @@
 12. **Еськина:** https://gitverse.ru/liza_esk/forecast-eur-rub
 13. **Мельникова:** https://gitverse.ru/st153688/forecast-cbr-rate
 14. **Кочергин:** https://github.com/kochergin360-stack/-
+15. **Какоша:** https://github.com/kpbpbd8mm8-spec/forecast-usd
