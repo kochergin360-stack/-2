@@ -31,6 +31,7 @@
   Еськина                             [forecast-eur-rub](https://gitverse.ru/liza_esk/forecast-eur-rub)
 
   Мельникова                          [forecast-cbr-rate](https://gitverse.ru/st153688/forecast-cbr-rate)
+  
   --------------------------------------------------------------------------------------------------------------------------------------
   
 
