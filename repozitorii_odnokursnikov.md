@@ -27,6 +27,10 @@
   Кондратьев                          [forecast-inflation](https://github.com/KonstantinKondratev/forecast-inflation/blob/8906f270ef031e0de16abac87d7fb4555e29430f/inflation-first-half-november-2026.md)
 
   Кузнецова                           [forecast-cbr-rate-november-2026](https://github.com/sssmlu/forecast-cbr-rate-november-2026/tree/main)
+
+  Еськина                             [forecast-eur-rub](https://gitverse.ru/liza_esk/forecast-eur-rub)
+
+  Мельникова                          [forecast-cbr-rate](https://gitverse.ru/st153688/forecast-cbr-rate)
   --------------------------------------------------------------------------------------------------------------------------------------
   
 
@@ -49,3 +53,5 @@
 10. **Кондратьев:**
     https://github.com/KonstantinKondratev/forecast-inflation/blob/8906f270ef031e0de16abac87d7fb4555e29430f/inflation-first-half-november-2026.md
 11. **Кузнецова:** https://github.com/sssmlu/forecast-cbr-rate-november-2026/tree/main
+12. **Еськина:** https://gitverse.ru/liza_esk/forecast-eur-rub
+13. **Мельникова:** https://gitverse.ru/st153688/forecast-cbr-rate
